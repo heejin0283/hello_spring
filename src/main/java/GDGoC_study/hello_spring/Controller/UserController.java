@@ -1,4 +1,4 @@
-package GDGoC_study.hello_spring;
+package GDGoC_study.hello_spring.Controller;
 
 import GDGoC_study.hello_spring.model.User;
 import GDGoC_study.hello_spring.service.UserService;

@@ -1,4 +1,4 @@
-package GDGoC_study.hello_spring;
+package GDGoC_study.hello_spring.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
